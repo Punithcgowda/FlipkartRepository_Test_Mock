@@ -12,6 +12,8 @@ import flpkart_ObjectRepository.realmemobilelist;
 
 public class SearchProduct extends Base_Class_TestNG
 {
+	//this method is just for login search realme phone 
+	
 	public FileUtility flib = new FileUtility();
 	  public WebdriverUtility web_util = new WebdriverUtility();
 	  public Excel_Utility_FC excel_util = new Excel_Utility_FC();
